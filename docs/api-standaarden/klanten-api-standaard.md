@@ -1,7 +1,7 @@
 ---
 layout: page-with-side-nav
-title: "Klanten API-standaard"
-date: '04-05-2022'
+title: Klanten API-standaard
+date: 04-05-2022
 ------
 
 API voor opslag en ontsluiting van klanten en daarbij behorende metadata.
