@@ -26,7 +26,7 @@ date: 04-05-2022
 - [Achtergronddocumentatie](./achtergronddocumentatie/index.md)
 
 ## Gerelateerde standaarden
-* [API-standaarden voor Zaakgericht werken](https://github.com/VNG-Realisatie/GEMMA-zaken)
+* [API-standaarden voor Zaakgericht werken](https://github.com/VNG-Realisatie/gemma-zaken)
 
 ## Bijdragen aan het project
 Gemeenten en leveranciers worden aangemoedigd om bij te dragen aan het project. Onderstaande links geven informatie over hoe u uw bijdrage kan leveren.
