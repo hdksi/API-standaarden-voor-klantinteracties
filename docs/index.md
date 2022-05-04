@@ -4,17 +4,21 @@ title: API-standaarden voor Klantinteracties
 date: 04-05-2022
 ---
 # API-standaarden voor Klantinteracties
+De API-standaarden voor Klantinteracties is een set API-standaarden voor het vastleggen van informatie over interacties tussen de gemeenten en klanten. De set bestaat uit 3 (concept) API-standaarden
+- Klanten API
+- Contactmomenten API
+- Productaanvragen API
 
 ## Werkingsgebied
 
 ## Status van de API-standaarden
+Aan de API-standaarden voor Klantinteracties wordt op dit moment gewerkt. 1.0-versies van de Klanten, Contactmomenten en Productaanvragen API's worden later dit jaar verwacht.
 
 ## Inhoud van de API-standaard
 - [Informatie- en gegevensmodel](./gegevensmodel/index.md)
 - [API-specificaties (bewerking)](./api-write/index.md)
 - [API-specificaties (inzage)](./api-read/index.md)
 - [Referentieimplementatie van een verwerkingenlogregister](./referentieimplementatie.md)
-
 
 ## Documentatie
 - [Productvisie](./productvisie.md)
