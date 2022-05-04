@@ -36,12 +36,12 @@ plugins:
   - jekyll-redirect-from
   - jekyll-remote-theme
 
-github: VNG-Realisatie/gemma-verwerkingenlogging
+github: hdksi/API-standaarden-voor-klantinteracties
 
 theme: jekyll-theme-cayman
 
 remote_theme: VNG-Realisatie/jekyll-theme-vng-realisatie
 
-project_name: /gemma-verwerkingenlogging
+project_name: API-standaarden voor klantinteracties
 
 standard_family: nvt
