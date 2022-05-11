@@ -35,6 +35,7 @@ nav:
 plugins:
   - jekyll-redirect-from
   - jekyll-remote-theme
+  - jemoji
 
 github: hdksi/API-standaarden-voor-klantinteracties
 
