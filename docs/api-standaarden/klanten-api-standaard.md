@@ -18,7 +18,7 @@ a.	Een niet-gevalideerde klant kan na authenticatie een gevalideerde klant worde
 Klanten zijn gerelateerd aan Contactmoment (in de Contactmomenten API) en Verzoek (in de Verzoeken API).
 
 | | geïdentificeerde klant | niet-geïdentificeerde klant |
-|:---:|:---:|:---:|
+| --- | :---: | :---: |
 | Relatie met basisregistratie | :heavy_check_mark:* | :x: |
 | Geen relatie met basisregistratie | :heavy_check_mark:   | :heavy_check_mark:  |
 *na authenticatie met voldoende betrouwbaar middel
