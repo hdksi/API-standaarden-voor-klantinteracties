@@ -3,8 +3,8 @@ layout: page-with-side-nav
 title: Klanten API-standaard
 date: 04-05-2022
 ---
-# Klanten API
-API voor opslaan, bijwerken en toegankelijk maken van gegevens over personen of organisaties waarmee de gemeente contact heeft gehad of (mogelijk) gaat hebben.
+# Klanten API-standaard
+API-standaard voor opslaan, bijwerken en toegankelijk maken van gegevens over personen of organisaties waarmee de gemeente contact heeft gehad of (mogelijk) gaat hebben.
 
 # Klantgegevens in relatie tot basisregistraties
 
@@ -17,10 +17,11 @@ a.	Een niet-gevalideerde klant kan na authenticatie een gevalideerde klant worde
 
 Klanten zijn gerelateerd aan Contactmoment (in de Contactmomenten API) en Verzoek (in de Verzoeken API).
 
-| | geïdentificeerde klant | niet-geïdentificeerde klant |
-| --- | :---: | :---: |
-| Relatie met basisregistratie | :heavy_check_mark:* | :x: |
-| Geen relatie met basisregistratie | :heavy_check_mark:   | :heavy_check_mark:  |
+|                                          | geïdentificeerde klant | niet-geïdentificeerde klant |
+| ---------------------------------------- | :--------------------: | :-------------------------: |
+| relatie met basisregistratiesubject      | :heavy_check_mark:*    | :x:                         |
+| geen relatie met basisregistratiesubject | :heavy_check_mark:     | :heavy_check_mark:          |
+
 *na authenticatie met voldoende betrouwbaar middel
 
 De Klanten API bevat resources voor Klant.
