@@ -6,7 +6,16 @@ date: 04-05-2022
 # Klanten API-standaard
 API-standaard voor opslaan, bijwerken en toegankelijk maken van gegevens over personen of organisaties waarmee de gemeente contact heeft gehad of (mogelijk) gaat hebben.
 
-# Klantgegevens in relatie tot basisregistraties
+# Klantgegevens in relatie tot subjectgegevens in basisregistraties
+Klantgegevens worden geregistreerd met als doel het vergemakkelijken van communicatie met de gemeente. Dit doel verschilt fundamenteel van de doelen waarmee gegevens in de BRP en het HR worden vastgelegd. Dit komt tot uitdrukking in een tweetal uitgangspunten bij de relatie tussen gegevens in basisregistraties en gerelateerde klantgegevens.
+Uitgangspunten
+1. Klantgegevens zijn geen reparatiemiddel voor onjuiste gegevens in basisregistraties. Als geconstateerd wordt dat gegevens in de basisregistraties onjuist zijn, moet deze onjuistheid aan de beheerder van die basisregistratie worden (terug)gemeld.
+2.	Klantgegevens hoeven niet overeen te stemmen met ‘equivalente’ gegevens in basisregistraties. Bijvoorbeeld: een persoon hanteert in het dagelijks leven een voornaam die afwijkt van de voornaam die in de BRP is vastgelegd. Bij de registratie van klantgegevens kan de persoon zelf kiezen welke voornaam wordt vastgelegd. Ook het opgegeven adres hoeft niet overeen te komen met in de BRP of het HR geregistreerde adressen.  Het adres van de klant is immers te zien als diens ‘voorkeurscorrespondentieadres’. Als processen vereisen dat correspondentie bijvoorbeeld naar het in de BRP bekende verblijfsadres van een Natuurlijk Persoon wordt gestuurd, wordt daarmee het gebruik van dit ‘voorkeurscorrespondentieadres’ uiteraard overruled.
+
+Relatie naar basisregistraties: kardinaliteit
+1.	Er is (per organisatie) minimaal geen (nul) en maximaal één gevalideerde klant gekoppeld aan één Natuurlijk Persoon in de Basisregistratie Personen.
+2.	Er zijn (per organisatie) minimaal geen (nul) klanten gekoppeld aan één Niet-Natuurlijk Persoon of Vestiging in het Handelsregister. Er is geen beperking aan het maximale aantal klanten dat aan één Niet-Natuurlijk Persoon of Vestiging is gerelateerd.
+3.	Een klant kan aan maximaal één Natuurlijk Persoon in de BRP of aan één Niet-Natuurlijk Persoon of Vestiging in het Handelsregister zijn gekoppeld. Een klant kan dus niet tegelijkertijd aan een Natuurlijk Persoon in de BRP én aan een Niet-Natuurlijk Persoon of Vestiging in het Handelsregister zijn gerelateerd.
 
 
 # Geïdentificeerde en niet-geïdentificeerde klanten
