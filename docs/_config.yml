@@ -10,22 +10,22 @@ nav:
   - title: Klantinteracties
     subnav:
       - title: Project
-        path: /project.md
+        path: /project
       - title: Productvisie
-        path: /productvisie.md
+        path: /productvisie
       - title: Architectuur
-        path: /architectuur.md
+        path: /architectuur
   - title: Klanten API-standaard
     subnav:
       - title: Uitgangspunten
-        path: /api-standaarden/klanten/uitgangspunten.md
+        path: /api-standaarden/klanten/uitgangspunten
       - title: Informatiemodel
-        path: /api-standaarden/klanten/informatiemodel.md
+        path: /api-standaarden/klanten/informatiemodel
       - title: Specificaties
-        path: /api-standaarden/klanten/specificaties.md
+        path: /api-standaarden/klanten/specificaties
       - title: Referentieimplementatie
-        path: /api-standaarden/klanten/referentieimplementatie.md
-        
+        path: /api-standaarden/klanten/referentieimplementatie
+
 plugins:
   - jekyll-redirect-from
   - jekyll-remote-theme
