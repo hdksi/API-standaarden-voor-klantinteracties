@@ -25,6 +25,10 @@ nav:
         path: /api-standaarden/klanten/specificaties
       - title: Referentieimplementatie
         path: /api-standaarden/klanten/referentieimplementatie
+  - title: Vraag en antwoord
+    subnav:        
+      - title: Contact
+        path: /contact
 
 plugins:
   - jekyll-redirect-from
