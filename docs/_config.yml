@@ -18,12 +18,14 @@ nav:
   - title: Klanten API-standaard
     subnav:
       - title: Uitgangspunten
-        path: /api-standaarden/klanten-api-standaard-uitgangspunten.md
+        path: /api-standaarden/klanten/uitgangspunten.md
       - title: Informatiemodel
-        path: /api-standaarden/klanten-api-standaard-im.md
+        path: /api-standaarden/klanten/informatiemodel.md
       - title: Specificaties
-        path: /api-standaarden/klanten-api-standaard-specs.md
-
+        path: /api-standaarden/klanten/specificaties.md
+      - title: Referentieimplementatie
+        path: /api-standaarden/klanten/referentieimplementatie.md
+        
 plugins:
   - jekyll-redirect-from
   - jekyll-remote-theme
