@@ -9,28 +9,20 @@ url: "http://localhost:4000"
 nav:
   - title: Klantinteracties
     subnav:
-#      - title: Project
-#        path: /
-#      - title: Productvisie
-#        path: /
-#      - title: Architectuur
-#        path: /
-  - title: Informatiemodel
+      - title: Project
+        path: /project.md
+      - title: Productvisie
+        path: /productvisie.md
+      - title: Architectuur
+        path: /architectuur.md
+  - title: Klanten API-standaard
     subnav:
-#      - title: Klanten
-#        path: /
-#      - title: Contactmomenten
-#        path: /
-#      - title: Productaanvragen
-#        path: /
-  - title: API-standaarden
-    subnav:
-      - title: Klanten API
-        path: /api-standaarden/klanten-api-standaard
-#      - title: Inzage API
-#        path: /api-read
-#      - title: Referentieimplementatie
-#        path: /referentieimplementatie
+      - title: Uitgangspunten
+        path: /api-standaarden/klanten-api-standaard-uitgangspunten.md
+      - title: Informatiemodel
+        path: /api-standaarden/klanten-api-standaard-im.md
+      - title: Specificaties
+        path: /api-standaarden/klanten-api-standaard-specs.md
 
 plugins:
   - jekyll-redirect-from
