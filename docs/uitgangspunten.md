@@ -19,7 +19,7 @@ Gegevens over personen of organisaties zijn toch ogeslagen in basisregistraties?
 
 Bovenstaande betekent dat klantgegevens geen reparatiemiddel zijn voor onjuiste gegevens in basisregistraties. Als geconstateerd wordt dat gegevens in de basisregistraties onjuist zijn, moet deze onjuistheid aan de beheerder van die basisregistratie worden (terug)gemeld.
 
-## Klantgegevens hoeven niet overeen te stemmen met gegevens in basisregistraties
+## Klantgegevens hoeven niet overeen te komen met gegevens in basisregistraties
 
 Klantgegevens hoeven niet overeen te stemmen met ‘equivalente’ gegevens in basisregistraties. Een klant die in het dagelijks leven bijvoorbeeld een voornaam gebruikt die afwijkt van de voornaam die in de BRP is vastgelegd kan bij de registratie van klantgegevens bepalen welke voornaam wordt vastgelegd. Ook een opgegeven adres hoeft niet overeen te komen met in de BRP of het HR geregistreerde adressen. Een door de klant opgegeven adres is immers te zien als diens ‘voorkeurscorrespondentie- of bezoekadres’. Maar als de aard van de interactie vereist dat correspondentie bijvoorbeeld naar het in de BRP bekende verblijfsadres van een Natuurlijk Persoon wordt gestuurd, mag die correspondentie uiteraard niet aan zo'n - daarvan afwijkend - ‘voorkeursadres’ worden geadresseerd.
 
