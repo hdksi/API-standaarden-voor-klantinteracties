@@ -17,8 +17,8 @@ Gemeenten hebben een moderne informatievoorziening nodig. In de huidige situatie
 
 ### Toegevoegde waarde voor leveranciers
 
-- __Waardevolle gegevens gestandaardiseerd toegankelijk__ Gestandaardiseerde interfaces en onderliggende databronnen maken het makkelijker nieuwe dienstverleningstoepassingen te ontwikkelen.
-- __Gemeenten stellen dezelfde vraag__ Standaarden uniformeren vragen van opdrachtgevers en vereenvoudigen implementatie.
+- __Waardevolle gegevens gestandaardiseerd toegankelijk.__ Gestandaardiseerde interfaces en onderliggende databronnen maken het makkelijker nieuwe dienstverleningstoepassingen te ontwikkelen.
+- __Uniformeren gemeentelijke opdrachtverstrekking.__ Standaarden uniformeren vragen van opdrachtgevers en vereenvoudigen implementatie.
 
 # Voor wie zijn deze standaarden bedoeld?
 
