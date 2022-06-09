@@ -29,13 +29,16 @@ Hoewel deze API-standaarden ontwikkeld zijn voor gebruik door gemeenten en hun s
 De API-standaarden voor Klantinteracties hangen nauw samen met de API-standaarden voor Zaakgericht werken. Omdat voor de toepassing van die standaarden een ['pas toe of leg uit'-principe](https://vng.nl/brieven/standaardverklaring-per-142021-api-standaarden-voor-zaakgericht-werken) geldt, is het het streven om ook de API-standaarden voor Klantinteracties op termijn meer verplichtend vast te stellen. Hiertoe zal na oplevering van de eerste productie-versie van de API-standaard een traject worden opgestart richting het College van Dienstverleningszaken van de VNG.
 
 ## Bijdragen aan het project
+
 Gemeenten en leveranciers worden aangemoedigd om bij te dragen aan het project. Onderstaande links geven informatie over hoe u uw bijdrage kan leveren.
 - Hoe u kunt [bijdragen](https://github.com/VNG-Realisatie/Tutorial/blob/master/CONTRIBUTING.md)
 - [Omgangsvormen](https://github.com/VNG-Realisatie/Tutorial/blob/master/CODE_OF_CONDUCT.md)
 - Functionele wens of een bug gevonden? Dien een issue in op de [GitHub repository voor Klantinteracties](https://github.com/VNG-Realisatie/klantinteracties/issues)
 
 ## Beheer en ondersteuning
+
 Contact: standaarden.ondersteuning@vng.nl
 
 ## Licentie
+
 Copyright &copy; VNG Realisatie 2022
