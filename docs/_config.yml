@@ -13,24 +13,20 @@ nav:
         path: /
       - title: Productvisie
         path: /productvisie
+      - title: Uitgangspunten
+        path: /uitgangspunten
       - title: Architectuur
         path: /architectuur
       - title: Vraagstukken
         path: /vraagstukken
-      - title: Uitgangspunten
-        path: /api-standaarden/klanten/uitgangspunten
-      - title: Informatiemodel
-        path: /api-standaarden/klanten/informatiemodel
+      - title: Informatiemodellen
+        path: /informatiemodellen
   - title: Specificaties Klanten API (IO)
     subnav:
       - title: Specificaties
         path: /api-standaarden/klanten/specificaties
       - title: Referentieimplementatie
         path: /api-standaarden/klanten/referentieimplementatie
-  - title: Vraag en antwoord
-    subnav:
-      - title: Contact
-        path: /contact
 
 plugins:
   - jekyll-redirect-from
