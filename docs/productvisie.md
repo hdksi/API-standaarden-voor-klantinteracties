@@ -11,7 +11,7 @@ Productaanvragen heeft een andere reden
 
 ### Toegevoegde waarde voor gemeenten
 
-- Er ontstaat een gemeentelijke kernregistratie
+- Gemeentelijke (kern)registraties voor interacties met klanten ondersteunen
 - Lagere ontwikkelkosten van koppelingen op basis van de ZGW API's
 - Lagere beheerkosten door backwards compatibiliteit (wijzigingen in de
   standaard leiden meestal niet tot aanpassingen in bestaande koppelingen)

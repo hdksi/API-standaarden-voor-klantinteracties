@@ -5,29 +5,20 @@ date: 04-05-2022
 ---
 # API-standaarden voor Klantinteracties
 De API-standaarden voor Klantinteracties is een set API-standaarden voor het vastleggen van informatie over interacties tussen de gemeenten en klanten. De set bestaat uit drie (concept) API-standaarden
-- [Klanten API-standaard](./api-standaarden/klanten-api-standaard.md)
-- Contactmomenten API-standaard
-- Productaanvragen API-standaard
+- [Productvisie](./productvisie.md)
+- [Uitgangspunten](./api-standaarden/klanten/uitgangspunten.md)
+- [Architectuur](./architectuur.md)
+- [Informatiemodellen](/informatiemodel.md)
 
 ## Werkingsgebied
 
 ## Status van de API-standaarden
 Aan de API-standaarden voor Klantinteracties wordt op dit moment gewerkt. 1.0-versies van de Klanten, Contactmomenten en Productaanvragen API's worden later dit jaar verwacht.
 
-## Inhoud van de API-standaard
-- [Informatie- en gegevensmodel](./gegevensmodel/index.md)
-- [API-specificaties (bewerking)](./api-write/index.md)
-- [API-specificaties (inzage)](./api-read/index.md)
-- [Referentieimplementatie van een verwerkingenlogregister](./referentieimplementatie.md)
+## Klanten API-standaard
 
-## Documentatie
-- [Productvisie](./productvisie.md)
-- [Quickstart Guide](./quickstart.md)
-- [Architectuur](./architectuur.md)
-- [Informatie- en gegevensmodel](./gegevensmodel/index.md)
-- [API-specificaties (bewerking)](./api-write/index.md)
-- [API-specificaties (inzage)](.//api-read/index.md)
-- [Achtergronddocumentatie](./achtergronddocumentatie/index.md)
+- [API-specificaties](./api-standaarden/klanten/specificaties.md)
+- [Referentieimplementatie van een Klanten API](./api-standaarden/klanten/referentieimplementatie.md)
 
 ## Gerelateerde standaarden
 * [API-standaarden voor Zaakgericht werken](https://github.com/VNG-Realisatie/gemma-zaken)

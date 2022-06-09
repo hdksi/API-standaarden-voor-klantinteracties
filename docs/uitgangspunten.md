@@ -3,18 +3,20 @@ layout: page-with-side-nav
 title: Uitgangspunten Klanten API-standaard
 date: 02-06-2022
 ---
-# Klanten API-standaard
+# Uitgangspunten bij ontwikkeling van de Klanten API-standaard
 Voor het leveren van producten en diensten aan inwoners en ondenemers hebben gemeenten (contact)gegevens van die inwoners en ondernemers nodig. Denk hierbij aan adresgegevens, een telefoonnumer of e-mailadres, een bankrekeningnummer, maar ook aan voorkeuren ten aanzien van het kanaal dat dat de gemeenten gebruikt om contact op te nemen. Een deel van deze gegevens is beschikbaar in de Basisregistratie Personen (BRP) en het Nationaal Handelsregister (HR). Daarbij geldt echter dat:
 1. De gegevens die in de basisregistratie zijn vastgelegd niet altijd overeenkomen met de, en
 2. Niet iedereen waarmee de gemeente zaken doet bekend is in zo'n basisregistratie.
 
-## Eigenaarschap
-Hoewel gegevens juridisch geen eigenaar (kunnen) kennen, is het uitgangspunt dat klantgegevens 'van de klant zijn'. Dit betekent dat een inwoner of ondernemer waar mogelijk zelf zijn klantgegevens verstrekt, en dat die gegevens door kan aanpassen of verwijderen. Dit betekent ook dat deze gegevens later een goede kandidaat zijn voor Regie op Gegevensdiensten en uiteindelijk opslag bij de inwoner of ondernemer zelf.
+## Definitie van 'klant'
+Een klant is een persoon of organisatie waarmee de gemeente contact heeft gehad of (mogelijk) gaat hebben.
 
-## Klanten API-standaard
-API-standaard voor opslaan, bijwerken en toegankelijk maken van gegevens over personen of organisaties waarmee de gemeente contact heeft gehad of (mogelijk) gaat hebben.
+## Klantgegevens zijn 'van de klant'
+Hoewel gegevens juridisch geen eigenaar (kunnen) kennen, is het uitgangspunt dat klantgegevens 'van de klant zijn'. Dit betekent dat een inwoner of ondernemer waar mogelijk zelf zijn klantgegevens verstrekt, en dat die gegevens door kan aanpassen of verwijderen.
 
-## Klantgegevens in relatie tot subjectgegevens in basisregistraties
+Dit betekent ook dat deze gegevens later een goede kandidaat zijn voor Regie op Gegevensdiensten en uiteindelijk opslag bij de inwoner of ondernemer zelf.
+
+## Klantgegevens kunnen worden gerelateerd aan subjectgegevens in andere registraties
 Klantgegevens worden geregistreerd met als doel het vergemakkelijken van communicatie met de gemeente. Dit doel verschilt fundamenteel van de doelen waarmee gegevens in de BRP en het HR worden vastgelegd. Dit komt tot uitdrukking in een tweetal uitgangspunten bij de relatie tussen gegevens in basisregistraties en gerelateerde klantgegevens.
 Uitgangspunten
 1. Klantgegevens zijn geen reparatiemiddel voor onjuiste gegevens in basisregistraties. Als geconstateerd wordt dat gegevens in de basisregistraties onjuist zijn, moet deze onjuistheid aan de beheerder van die basisregistratie worden (terug)gemeld.
@@ -24,6 +26,8 @@ Uitgangspunten
 1.	Er is (per organisatie) minimaal geen (nul) en maximaal één gevalideerde klant gekoppeld aan één Natuurlijk Persoon in de Basisregistratie Personen.
 2.	Er zijn (per organisatie) minimaal geen (nul) klanten gekoppeld aan één Niet-Natuurlijk Persoon of Vestiging in het Handelsregister. Er is geen beperking aan het maximale aantal klanten dat aan één Niet-Natuurlijk Persoon of Vestiging is gerelateerd.
 3.	Een klant kan aan maximaal één Natuurlijk Persoon in de BRP of aan één Niet-Natuurlijk Persoon of Vestiging in het Handelsregister zijn gekoppeld. Een klant kan dus niet tegelijkertijd aan een Natuurlijk Persoon in de BRP én aan een Niet-Natuurlijk Persoon of Vestiging in het Handelsregister zijn gerelateerd.
+
+## Relateren aan subjectgegevens gebeurt alleen als dat nodig is
 
 # Geïdentificeerde en niet-geïdentificeerde klanten
 De Klanten API, bedoeld voor gestandaardiseerd vastleggen van gegevens over klanten, dient twee doelen:
