@@ -9,24 +9,26 @@ url: "http://localhost:4000"
 nav:
   - title: Klantinteracties
     subnav:
-      - title: Project
-        path: /project
+      - title: Main
+        path: /
       - title: Productvisie
         path: /productvisie
       - title: Architectuur
         path: /architectuur
-  - title: Klanten API-standaard
-    subnav:
+      - title: Vraagstukken
+        path: /vraagstukken
       - title: Uitgangspunten
         path: /api-standaarden/klanten/uitgangspunten
       - title: Informatiemodel
         path: /api-standaarden/klanten/informatiemodel
+  - title: Specificaties Klanten API (IO)
+    subnav:
       - title: Specificaties
         path: /api-standaarden/klanten/specificaties
       - title: Referentieimplementatie
         path: /api-standaarden/klanten/referentieimplementatie
   - title: Vraag en antwoord
-    subnav:        
+    subnav:
       - title: Contact
         path: /contact
 
