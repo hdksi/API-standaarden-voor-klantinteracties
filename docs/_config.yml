@@ -17,10 +17,10 @@ nav:
         path: /uitgangspunten
       - title: Architectuur
         path: /architectuur
-      - title: Vraagstukken
-        path: /vraagstukken
       - title: Informatiemodellen
         path: /informatiemodellen
+      - title: Vraagstukken
+        path: /vraagstukken
   - title: Specificaties Klanten API (IO)
     subnav:
       - title: Specificaties
