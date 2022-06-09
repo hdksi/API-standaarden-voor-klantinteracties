@@ -39,7 +39,7 @@ Uit de bovenstaande uitgangspunten volgt dat er twee 'type' klanten bestaan.
 
 Voor verschillende 'typen' klant gelden verschillende hieronder beschreven uitgangspunten.
 
-## Voor registratie van aangehaakte en zelfstandige klanten gelden verschillende voorwaarden
+## Zelfstandige klanten kunnen onvoorwaardelijk worden geregistreerd, aangehaakte klanten niet
 
 Voor het registreren en verstrekt van gegevens over geïdentificeerde klanten gelden andere voorwaarden dan voor niet-geïdentificeerde klanten:
 1.	__Aangehaakte klant.__ Het relateren van klantgegevens aan Natuurlijke of (vertegenwoordigers van) Niet-natuurlijke personen in de BRP of het HR mag alleen plaatsvinden nadat met voldoende zekerheid (middels een authenticatiemiddel van voldoende betrouwbaarheidsniveau) is vastgesteld dat degene die deze gegevens wil (laten) vastleggen het recht heeft dit te (laten) doen. Voordat eerder geregistreerde gegevens aan de klant verstrekt worden, moet met voldoende zekerheid zijn vastgesteld of degene aan wie deze verstrekt worden gerechtigid is deze in te zien.
@@ -53,7 +53,7 @@ Onderstaande de voorwaarden voor registratie van Aangehaakte en zelfstandige kla
 
 *mits voldoende betrouwbaar middel toegepast
 
-## We beschouwen gegevens over zelfstandige klanten als onbetrouwbaar en ongeschikt voor hergebruik
+## Ggegevens over zelfstandige klanten zijn onbetrouwbaar en ongeschikt voor hergebruik
 
 De betrouwbaarheid van vastgelegde klantgegevens wordt bepaald door de mate waarin is na te gaan wíe die gegevens heeft geregistreerd of laten registreren. Deze betrouwbaarheid heeft gevolgen voor de herbruikbaarheid van klantgegevens.
 1. __Aangehaakte klant.__ Door de voorwaarden voor registratie weten we wie die de klantgegevens heeft laten vastleggen, en kunnen we vaststellen dat deze persoon daartoe gerechtigd was. Daarom kunnen deze gegevens worden beschouwd als betrouwbaar. Bovendien zijn deze klantgegevens op basis van een gegarandeerd unieke sleutel (Burgerservicenummer, RSIN of KvK-nummer) op te vragen. Ze zijn hiermee geschikt voor hergebruik.
