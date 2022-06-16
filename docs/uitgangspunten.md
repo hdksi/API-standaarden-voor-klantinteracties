@@ -36,26 +36,19 @@ Uit de bovenstaande uitgangspunten volgt dat er ‘aangehaakte’ klanten bestaa
 
 Voor verschillende ‘typen’ klant gelden verschillende hieronder beschreven uitgangspunten.
 
-## Zelfstandige klanten kunnen zonder voorwaarden worden geregistreerd, aangehaakte klanten niet
+## Voor het registreren van aangehaakte klanten is een machtiging vereist
 
-Voor het registreren en verstrekken van gegevens over aangehaakte klanten gelden andere voorwaarden dan bij zelfstandige klanten:
+Voor het registreren en verstrekken van gegevens over aangehaakte klanten gelden andere voorwaarden dan voor registratie van zelfstandige klanten:
 
 1.	__Aangehaakte klant.__ Het relateren van klantgegevens aan Natuurlijke of (vertegenwoordigers van) Niet-natuurlijke personen in de Basisregistratie Personen, het Handelsregister of eventueel een buitenlandse (basis)registratie mag alleen nadat met voldoende zekerheid (dus middels een authenticatiemiddel van voldoende betrouwbaarheidsniveau) is vastgesteld dat degene die deze gegevens wil (laten) vastleggen gemachtigd is dit te (laten) doen. Voordat eerder geregistreerde gegevens aan de klant verstrekt worden, moet opnieuw met voldoende zekerheid zijn vastgesteld of degene aan wie deze verstrekt worden daartoe gemachtigd is.
 2.	__Zelfstandige klant.__ Registratie van klantgegevens zonder relatie naar een Natuurlijk of (vertegenwoordiger van) Niet-natuurlijk persoon in de BRP of het HR kan zonder voorwaarden plaatsvinden. Opnieuw verstrekken kan alleen binnen de context van de interactie waarvoor de gegeven verstrekt zijn (zie ook uitgangspunt over _hergebruik_ hieronder).
 
-Voor registreren van klantgegevens geldt dus:
+Voor registreren en verestrekken van klantgegevens geldt dus:
 
-|                               | Na identificatie/authenticatie                                                                               | Zonder identificatie/authenticatie                                                  |
-| ----------------------------- | ------------------------------------------                                                                   | -----------------------------------------                                                              |
-| Aangehaakte klant             | :heavy_check_mark: toegestaan*                                                                               | :x: niet toegestaan                                                     |
-| Zelfstandige klant            | :heavy_check_mark: toegestaan                                                                                | :heavy_check_mark: toegestaan                                                     |
-
-En voor verstrekken geldt:
-
-|                               | Na identificatie/authenticatie                                                                               | Zonder identificatie/authenticatie                                                  |
-| ----------------------------- | ------------------------------------------                                                                   | -----------------------------------------                                                              |
-| Aangehaakte klant             | :heavy_check_mark: toegestaan*                                                                               | :x: niet toegestaan                                                     |
-| Zelfstandige klant            | :heavy_exclamation_mark: alleen toegestaan in de context van de interactie waarvoor gegevens zijn ingewonnen | :heavy_exclamation_mark:  alleen toegestaan in de context van de interactie waarvoor gegevens zijn ingewonnen |
+|                               | Na identificatie/authenticatie | Zonder identificatie/authenticatie |
+| ----------------------------- | ------------------------------ | ---------------------------------- |
+| Aangehaakte klant             | :heavy_check_mark: registratie toegestaan*<br>:heavy_check_mark: verstrekken toegestaan*  | :x: registratie niet toegestaan<br>:x: verstrekken niet toegestaan |
+| Zelfstandige klant            | :heavy_check_mark: registratie toegestaan<br>:heavy_exclamation_mark: verstrekken alleen toegestaan in de context van de interactie waarvoor gegevens zijn ingewonnen | :heavy_check_mark: registratie toegestaan<br>:heavy_exclamation_mark: verstrekken alleen toegestaan in de context van de interactie waarvoor gegevens zijn ingewonnen  |
 
 *na toepassing van voldoende betrouwbaar middel.
 
@@ -77,3 +70,10 @@ Klantgegevens worden alleen vastgelegd als dat vanwege het karakter van de inter
 ## Klantgegevens zijn ‘van de klant’
 
 Hoewel gegevens juridisch geen eigenaar (kunnen) kennen, is het uitgangspunt dat klantgegevens ‘van de klant zijn’. Dit betekent dat een inwoner of ondernemer zoveel mogelijk zelf haar of zijn klantgegevens verstrekt, en in staat wordt gesteld eerder verstrekte gegevens aan te passen of - voor zover de bewaartermijn van eventueel aan de klant gerelateerde zaak(dossiers) dat toelaat - te verwijderen. Op termijn zouden klantgegevens in het kader van [‘regie op gegevens’](https://www.digitaleoverheid.nl/overzicht-van-alle-onderwerpen/regie-op-gegevens/) zelfs geheel uit de gemeentelijke administratie kunnen verdwijnen om in plaats daarvan door de klant zelf te worden bewaard en beheerd.
+
+## Klantgegevens worden op het juiste moment vernietigd
+
+Aangehaakte en zelfstandige klanten kennen een verschillend vernietigingsregime:
+
+1. __Aangehaakte klant.__ _De bewaartermijn voor aangehaakte klanten is onderwerp van onderzoek._
+2. __Zelfstandige klant.__ Gegevens over zelfstandige klanten zijn onderdeel van het (zaak)dossier dat aanleiding gaf voor de registratie van die klantgegevens en worden dus vernietigd op het moment dat de bewaartermijn van dat dossier is verlopen.
