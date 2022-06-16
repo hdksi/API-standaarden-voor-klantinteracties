@@ -27,7 +27,7 @@ Klantgegevens hoeven niet overeen te stemmen met ‘equivalente’ gegevens in b
 
 Registratie van klantgegevens betekent niet dat een inwoner of ondernemer het recht verwerft altijd op basis van de klantgegevens met de gemeente te communiceren. Als de aard van de interactie bijvoorbeeld vereist dat correspondentie naar het in de Basisregistratie Personen bekende verblijfsadres gestuurd wordt, kan en mag die correspondentie immers niet aan een daarvan afwijkend ‘voorkeursadres’ worden geadresseerd.
 
-# We onderscheiden aangehaakte en zelfstandige klanten
+## We onderscheiden aangehaakte en zelfstandige klanten
 
 Uit de bovenstaande uitgangspunten volgt dat er ‘aangehaakte’ klanten bestaan. Maar klantgegevens kunnen ook worden vastgelegd zonder dat sprake is van een relatie tussen een klant en subjectgegevens in een basisregistratie. Dit betekent dat twee ‘typen’ klant onderscheiden kunnen worden, namelijk:
 
@@ -77,10 +77,3 @@ Klantgegevens worden alleen vastgelegd als dat vanwege het karakter van de inter
 ## Klantgegevens zijn 'van de klant'
 
 Hoewel gegevens juridisch geen eigenaar (kunnen) kennen, is het uitgangspunt dat klantgegevens ‘van de klant zijn’. Dit betekent dat een inwoner of ondernemer zoveel mogelijk zelf haar of zijn klantgegevens verstrekt, en in staat wordt gesteld eerder verstrekte gegevens aan te passen of - voor zover de bewaartermijn van eventueel aan de klant gerelateerde zaak(dossiers) dat toelaat - te verwijderen. Op termijn zouden klantgegevens in het kader van ['regie op gegevens'](https://www.digitaleoverheid.nl/overzicht-van-alle-onderwerpen/regie-op-gegevens/) zelfs geheel uit de gemeentelijke administratie kunnen verdwijnen om in plaats daarvan door de klant zelf te worden bewaard en beheerd.
-
-## Klantgegevens worden op het juiste moment vernietigd
-
-Aangehaakte en zelfstandige klanten kennen een verschillend vernietigingsregime:
-
-1. __Aangehaakte klant.__ _De bewaartermijn voor aangehaakte klanten is onderwerp van onderzoek._
-2. __Zelfstandige klant.__ Gegevens over zelfstandige klanten zijn onderdeel van het (zaak)dossier dat aanleiding gaf voor de registratie van die klantgegevens en worden dus vernietigd op het moment dat de bewaartermijn van dat dossier is verlopen.
