@@ -47,10 +47,10 @@ Voor registreren en verestrekken van klantgegevens geldt dus:
 
 |                               | Na identificatie/authenticatie | Zonder identificatie/authenticatie |
 | ----------------------------- | ------------------------------ | ---------------------------------- |
-| Aangehaakte klant             | :heavy_check_mark: registratie toegestaan*<br>:heavy_check_mark: verstrekken toegestaan*  | :x: registratie niet toegestaan<br>:x: verstrekken niet toegestaan |
-| Zelfstandige klant            | :heavy_check_mark: registratie toegestaan<br>:heavy_exclamation_mark: verstrekken alleen toegestaan in de context van de interactie waarvoor gegevens zijn ingewonnen | :heavy_check_mark: registratie toegestaan<br>:heavy_exclamation_mark: verstrekken alleen toegestaan in de context van de interactie waarvoor gegevens zijn ingewonnen  |
+| Aangehaakte klant             | :heavy_check_mark: registratie toegestaan¹<br>:heavy_check_mark: verstrekken toegestaan¹  | :x: registratie niet toegestaan<br>:x: verstrekken niet toegestaan |
+| Zelfstandige klant            | :heavy_check_mark: registratie toegestaan<br>:heavy_exclamation_mark: verstrekken alleen toegestaan binnen de context waarvoor ingewonnen | :heavy_check_mark: registratie toegestaan<br>:heavy_exclamation_mark: verstrekken alleen toegestaan binnen de context waarvoor ingewonnen  |
 
-*na toepassing van voldoende betrouwbaar middel.
+¹na toepassing van voldoende betrouwbaar middel.
 
 ## Gegevens over zelfstandige klanten zijn onbetrouwbaar en ongeschikt voor hergebruik
 
