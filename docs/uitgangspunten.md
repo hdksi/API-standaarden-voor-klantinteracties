@@ -48,7 +48,7 @@ Voor registreren en verestrekken van klantgegevens geldt dus:
 |                               | Na identificatie/authenticatie | Zonder identificatie/authenticatie |
 | ----------------------------- | ------------------------------ | ---------------------------------- |
 | Aangehaakte klant             | :heavy_check_mark: registratie toegestaan¹<br>:heavy_check_mark: verstrekken toegestaan¹  | :x: registratie niet toegestaan<br>:x: verstrekken niet toegestaan |
-| Zelfstandige klant            | :heavy_check_mark: registratie toegestaan<br>:heavy_exclamation_mark: verstrekken alleen toegestaan binnen de context waarvoor ingewonnen | :heavy_check_mark: registratie toegestaan<br>:heavy_exclamation_mark: verstrekken alleen toegestaan binnen de context waarvoor ingewonnen  |
+| Zelfstandige klant            | :heavy_check_mark: registratie toegestaan<br>:grey_exclamation: verstrekken alleen toegestaan binnen de context waarvoor ingewonnen | :heavy_check_mark: registratie toegestaan<br>:grey_exclamation: verstrekken alleen toegestaan binnen de context waarvoor ingewonnen  |
 
 ¹na toepassing van voldoende betrouwbaar middel.
 
