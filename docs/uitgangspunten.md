@@ -45,19 +45,19 @@ Voor het registreren en verstrekken van gegevens over aangehaakte klanten gelden
 
 Voor registreren van klantgegevens geldt dus:
 
-|                               | Na identificatie/authenticatie             | Zonder identificatie/authenticatie        |
-| ----------------------------- | ------------------------------------------ | ----------------------------------------- |
-| Aangehaakte klant             | :heavy_check_mark: registratie toegestaan* | :x: registratie niet toegestaan           |
-| Zelfstandige klant            | :heavy_check_mark: registratie toegestaan  | :heavy_check_mark: registratie toegestaan |
-
-*na toepassing van voldoende betrouwbaar middel.
+|                               | Na identificatie/authenticatie                                                                                           | Zonder identificatie/authenticatie                                                                                   |
+| ----------------------------- | ------------------------------------------                                                                               | -----------------------------------------                                                                                          |
+| Aangehaakte klant             | :heavy_check_mark: registratie toegestaan*                                                                               | :x: registratie niet toegestaan                                                                                      |
+| Zelfstandige klant            | :heavy_check_mark: registratie toegestaan                                                                                | :heavy_check_mark: registratie toegestaan                                                                                      |
 
 En voor verstrekken geldt:
 
-|                               | Na identificatie/authenticatie                                                                                           | Zonder identificatie/authenticatie                                                                                                                      |
-| ----------------------------- | ------------------------------------------                                                                               | -----------------------------------------                                                                                                                             |
-| Aangehaakte klant             | :heavy_check_mark: verstrekken toegestaan*                                                                               | :x: verstrekken niet toegestaan                                                                                                                         |
-| Zelfstandige klant            | :heavy_exclamation_mark: verstrekken alleen toegestaan in de context van de interactie waarvoor gegevens zijn ingewonnen | :heavy_check_mark: registratie toegestaan:heavy_exclamation_mark: verstrekken alleen toegestaan in de context van de interactie waarvoor gegevens zijn ingewonnen |
+|                               | Na identificatie/authenticatie                                                                                           | Zonder identificatie/authenticatie                                                                                   |
+| ----------------------------- | ------------------------------------------                                                                               | -----------------------------------------                                                                                          |
+| Aangehaakte klant             | :heavy_check_mark: verstrekken toegestaan*                                                                               | :x: verstrekken niet toegestaan                                                                                      |
+| Zelfstandige klant            | :heavy_exclamation_mark: verstrekken alleen toegestaan in de context van de interactie waarvoor gegevens zijn ingewonnen | :heavy_exclamation_mark: verstrekken alleen toegestaan in de context van de interactie waarvoor gegevens zijn ingewonnen |
+
+*na toepassing van voldoende betrouwbaar middel.
 
 ## Gegevens over zelfstandige klanten zijn onbetrouwbaar en ongeschikt voor hergebruik
 
