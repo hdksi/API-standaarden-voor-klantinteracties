@@ -8,11 +8,11 @@ date: 02-06-2022
 
 Een aaneengesloten periode (bij gebruik van een synchroon communicatiemiddel zoals de telefoon) of een atomair moment (bij gebruik van een asynchroon communicatiemiddel zoals e-mail of een chatbericht) waarbij tussen de gemeente en een klant informatie wordt uitgewisseld.
 
-Een contactmoment kan dus onderdeel zijn van een [interactie](#interactie) of de hele interactie omvatten.
+Een contactmoment kan dus onderdeel zijn van een [interactie](#interactie) - als dat contactmoment bijvoorbeeld het leverproces van een product of dienst betreft - of de hele interactie omvatten - bijvoorbeeld wanneer de klant telefonisch een vraag stelt die meteen beantwoord kan worden.
 
 # Interactie
 
-Periode, startend bij de eerste en eindigend na de laatste informatieuitwisseling over een specifiek ondewerp tussen de gemeente en een klant.
+Periode, startend bij de eerste en eindigend na de laatste informatie-uitwisseling tussen de gemeente en een klant over een specifiek ondewerp.
 
 Een interactie kan dus één of meerdere [contactmomenten](#contactmoment) omvatten.
 
