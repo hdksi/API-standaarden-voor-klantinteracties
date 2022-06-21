@@ -13,6 +13,8 @@ nav:
         path: /
       - title: Productvisie
         path: /productvisie
+      - title: Begrippen
+        path: /begrippen
       - title: Uitgangspunten
         path: /uitgangspunten
       - title: Ontwerpkeuzes
