@@ -1,10 +1,10 @@
 ---
 layout: page-with-side-nav
 title: Begrippen bij API-standaarden voor Klantinteracties
-date: 02-06-2022
+date: 21-06-2022
 ---
 
-# Begrippen klantinteracties
+# Begrippen
 
 Hieronder wordt een aantal begrippen dat binnen de de API-standaarden voor Klantinteracties of de documentatie daarbij wordt gebruikt gedefinieerd en nader toegelicht.
 

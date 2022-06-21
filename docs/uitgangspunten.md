@@ -1,10 +1,10 @@
 ---
 layout: page-with-side-nav
 title: Uitgangspunten API-standaarden voor Klantinteracties
-date: 09-06-2022
+date: 21-06-2022
 ---
 
-# Uitgangspunten API-standaarden voor Klantinteracties
+# Uitgangspunten
 
 ## Klanten
 

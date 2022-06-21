@@ -1,6 +1,9 @@
 ---
 layout: page-with-side-nav
-title: Informatiemodel Klanten API-standaard
-date: 02-06-2022
+title: Informatiemodellen API-standaarden voor Klantinteracties
+date: 09-06-2022
 ---
-Op dit moment wordt gewerkt aan een bijgewerkt informatiemodel dat aansluit bij de [MIM-conventies](https://www.forumstandaardisatie.nl/open-standaarden/mim).
+
+# Informatiemodellen
+
+Op dit moment wordt gewerkt aan bijgewerkte informatiemodellen voor Klanten, Contactmomenten en Productaanvragen die aansluiten bij de [MIM-conventies](https://www.forumstandaardisatie.nl/open-standaarden/mim).
